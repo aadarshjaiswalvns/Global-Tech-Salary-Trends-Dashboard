@@ -1,6 +1,6 @@
 # 🌍 Global Tech Salary Trends Dashboard (2020–2025)
 
-![Power BI Dashboard]() 
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Global-Tech-Salary-Trends-Dashboard/blob/main/dashboard_preview.jpg) 
 
 ## 📊 Project Overview
 
