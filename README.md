@@ -1,5 +1,9 @@
 # 🌍 Global Tech Salary Trends Dashboard (2020–2025)
 
+![Power BI Dashboard]() 
+
+## 📊 Project Overview
+
 An interactive Power BI dashboard project exploring global salary trends across Data Science, AI, and other tech roles between 2020 and 2025. This project visualizes how job title, experience, company size, location, and work mode impact compensation and hiring patterns worldwide.
 
 ---
@@ -89,8 +93,9 @@ Insights should **not** be used to guide **hiring, compensation, or business dec
 
 **Author**: Aadarsh Jaiswal  
 🔗 [Portfolio](https://aadarshjaiswalvns.github.io/Data-Analytics-Portfolio)  
-💼 [LinkedIn](https://www.linkedin.com/in/aadarshjaiswalvns)  
-📧 [Email](mailto:aadarshjaiswalvns@gmail.com)
+💼 [LinkedIn](https://linkedin.com/in/aadarsh-jaiswal)  
+📧 [Email](mailto:aadarshjaiswal.vns@gmail.com)
+💻 [GitHub](https://github.com/aadarshjaiswalvns)
 
 ---
 
