@@ -57,12 +57,12 @@ To analyze and visualize global tech salary data based on the following dimensio
 ## 📂 Repository Structure
 
 📁 data/
-└── global_tech_salary_data.csv # Raw salary dataset
+└── Salary.csv # Raw salary dataset
 
 📁 assets/
-└── dashboard_screenshot.png # Optional preview image
+└── dashboard_preview.png # Optional preview image
 
-📄 Global_Tech_Salary_Dashboard.pbix # Power BI file
+📄 Tech_Salary_Trend_2020_to_2025.pbix # Power BI file
 📄 README.md # Project documentation
 
 
