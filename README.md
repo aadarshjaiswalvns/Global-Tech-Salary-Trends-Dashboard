@@ -96,6 +96,7 @@ Insights should **not** be used to guide **hiring, compensation, or business dec
 🔗 [Portfolio](https://aadarshjaiswalvns.github.io/Data-Analytics-Portfolio)  
 💼 [LinkedIn](https://linkedin.com/in/aadarsh-jaiswal)  
 📧 [Email](mailto:aadarshjaiswal.vns@gmail.com)
+
 💻 [GitHub](https://github.com/aadarshjaiswalvns)
 
 ---
