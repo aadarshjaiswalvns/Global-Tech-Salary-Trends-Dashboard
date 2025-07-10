@@ -63,7 +63,7 @@ To analyze and visualize global tech salary data based on the following dimensio
 - └── dashboard_preview.png # Optional preview image
 
 📄 Tech_Salary_Trend_2020_to_2025.pbix # Power BI file
-📄 README.md # Project documentation
+- 📄 README.md # Project documentation
 
 
 ---
