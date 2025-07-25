@@ -82,14 +82,6 @@ To analyze and visualize global tech salary data based on the following dimensio
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is intended for **educational and exploratory purposes only**.  
-The dataset is publicly sourced and may include **simulated or incomplete data**.  
-Insights should **not** be used to guide **hiring, compensation, or business decisions** without validation from official industry sources.
-
----
-
 ## 📬 Contact
 
 **Author**: Aadarsh Jaiswal  
