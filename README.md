@@ -34,7 +34,7 @@ To analyze and visualize global tech salary data based on the following dimensio
 ## 📊 Key Insights
 
 - 💰 Average Global Salary $158,000  
-- 🇺🇸 Top Paying Country United States – $163.8K  
+- 🌍 Top Paying Country United States – $163.8K  
 - 📊 Most Common Role Data Scientist  
 - 🌐 Remote Jobs ~21% of total roles  
 - 📉 Salary Trends Peaked in 2024, slight drop observed in 2025  
